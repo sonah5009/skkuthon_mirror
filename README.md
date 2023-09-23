@@ -10,6 +10,8 @@
 
 ## Dev Server 실행 방법
 
+`npm run dev`
+
 ## Production 배포 방법
 
 ## 환경 변수 및 시크릿
